@@ -1,0 +1,22 @@
+[
+	{
+		"link": "https://app6.com/zimplit.php",
+		"accounts": [{
+			"user_id": "admin",
+			"password": "admin",
+			"privilege": "admin"
+			}]			
+	},			
+	{
+		"link": "https://app8.com/upload/admin",
+		"accounts": [{
+			"user_id": "test",
+			"password": "test",
+			"privilege": "regular"			
+			},{
+			"user_id": "admin",
+			"password": "admin",
+			"privilege": "admin"			
+			}]			
+	}
+]

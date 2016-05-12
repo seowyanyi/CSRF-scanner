@@ -1,0 +1,12 @@
+[
+    {
+        "AppDetails": [],
+        "AppName": "app6",
+        "Login": {
+            "password": "admin",
+            "privilege": "admin",
+            "user_id": "admin"
+        },
+        "LoginLink": "https://app6.com/zimplit.php"
+    }
+]
